@@ -76,7 +76,7 @@ change = 0;
   
 
 }
-System.out.println(money); 
+
 fill(255,255,255);
 textSize(20);
 text("$  ",3,20);
